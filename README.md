@@ -1,6 +1,9 @@
 # ROBO
 
 Raspberry Pi robotics project (SunFounder Robot HAT, mecanum wheels, sensors, fan control).  
+
+Documentation will be located at our [Wiki](https://github.com/tomoxm/ROBO/wiki)
+
 Goals:
 - 4x motor control (mecanum)
 - Sensor suite: VL53L1X laser, flame, grayscale, gyroscope and line sensor
